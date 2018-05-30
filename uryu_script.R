@@ -1,5 +1,4 @@
 ##################################
-# NIES.R#2
 # Title: 痒い所に手が届くggplot2作図の技
 # Author: Shinya Uryu
 # knitr::purl("slide.Rmd")
@@ -309,4 +308,3 @@ plot7_b <-
 ggarrange(plot7_a, plot7_b, nrow = 2)
 ## ----plot7_2col, eval = FALSE, echo = TRUE-------------------------------
 ggarrange(plot7_a, plot7_b, nrow = 1)
-
